@@ -1,4 +1,4 @@
-Phase 0 — System Design
+## Phase 0 — System Design ##
 
 - Architecture
 - Domain boundaries
@@ -11,7 +11,7 @@ Phase 0 — System Design
 
 -----------------------------------
 
-Phase 1 — Foundation
+## Phase 1 — Foundation ##
 
 - Gradle multi-module setup
 - Java baseline
@@ -26,7 +26,7 @@ Phase 1 — Foundation
 
 -----------------------------------
 
-Phase 2 — Core Platform
+## Phase 2 — Core Platform ##
 
 - Identity/Auth
 - User management
@@ -37,7 +37,7 @@ Phase 2 — Core Platform
 
 -----------------------------------
 
-Phase 3 — AI Layer
+## Phase 3 — AI Layer ##
 
 - AI tutor
 - RAG
@@ -49,7 +49,7 @@ Phase 3 — AI Layer
 
 -----------------------------------
 
-Phase 4 — Learning Engine
+## Phase 4 — Learning Engine ##
 
 - Assessments
 - Quizzes
@@ -60,7 +60,7 @@ Phase 4 — Learning Engine
 
 -----------------------------------
 
-Phase 5 — Integration
+## Phase 5 — Integration ##
 
 - APIs
 - Messaging/events
@@ -71,7 +71,7 @@ Phase 5 — Integration
 
 -----------------------------------
 
-Phase 6 — Quality
+## Phase 6 — Quality ##
 
 - Unit tests
 - Integration tests
@@ -82,7 +82,7 @@ Phase 6 — Quality
 
 -----------------------------------
 
-Phase 7 — Production
+## Phase 7 — Production ##
 
 - CI/CD
 - Observability
