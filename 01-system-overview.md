@@ -1,4 +1,5 @@
-# Agenda #
+# Agenda # 
+> What is LearnForge and what are its major capabilities?
 - Purpose
 - Goals
 - Non-goals
